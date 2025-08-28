@@ -1,5 +1,5 @@
 import React from 'react'
-import CardTop from './Cardtop'
+import CardTop from "./CardTop"
 import CardBottom from './CardBottom'
 
 function Card() {
